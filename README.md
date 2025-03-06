@@ -12,3 +12,7 @@ I'm the maintainer of the [Flexit BACnet](https://www.home-assistant.io/integrat
 - Outdoor adventures & travel
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lellky/)
+
+<p style="text-align: right;">
+    <a href="thenet.md">π</a>
+</p>
