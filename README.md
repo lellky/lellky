@@ -13,6 +13,6 @@ I'm the maintainer of the [Flexit BACnet](https://www.home-assistant.io/integrat
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lellky/)
 
-<p style="text-align: right;">
+<div style="text-align: right;" align="right" dir="rtl">
     <a href="thenet.md">π</a>
-</p>
+</div>
