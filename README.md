@@ -7,6 +7,7 @@ I'm the maintainer of the [Flexit BACnet](https://www.home-assistant.io/integrat
 ### 🛠 Interests & Projects
 - My family 🥰
 - Home automation & IoT
+- My take on [Magic Mirror](https://github.com/lellky/howto-magic-mirror)
 - Open-source development
 - High-fidelity audio & electronics
 - Outdoor adventures & travel
