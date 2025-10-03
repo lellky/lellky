@@ -10,7 +10,8 @@ I'm the maintainer of the [Flexit BACnet](https://www.home-assistant.io/integrat
 - My take on [Magic Mirror](https://github.com/lellky/howto-magic-mirror)
 - Open-source development
 - High-fidelity audio & electronics
-- Outdoor adventures & travel
+- Outdoor adventures, cycling & travel
+- [Vanstash](https://vanstash.com/) - A storage pod designed for Volkswagen T6
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lellky/)
 
