@@ -373,6 +373,7 @@ Elektroteknik (sv) programme.
 ### Other
 - Open Source contributions
 - Project planning & cross-team coordination
+- 3D design in fusion and other tools
 
 ## Other sections
-I make great coffee ☕️ and know how to pitch a tent ⛺︎.
+I make great coffee ☕️ and know how to pitch a tent ⛺︎. I make stuff with a 3D printer. That's amazing.
