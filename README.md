@@ -13,6 +13,7 @@ I'm the maintainer of the [Flexit BACnet](https://www.home-assistant.io/integrat
 - Outdoor adventures, cycling & travel
 - [Vanstash](https://vanstash.com/) - A storage pod designed for Volkswagen T6
 - [Har John barnen?](https://harjohnbarnen.nu/) - A website that lets you check if my friend John has the kids this week.
+- [My personal blog](https://lellky.com/)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/lellky/)
 
