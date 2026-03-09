@@ -31,8 +31,17 @@ _August 2025 - Present_
 
 Stockholm, Sweden
 
-Covering a wide range of responsibilities including client development, the company website, and internal tools, while 
-also helping shape our data services product.
+- Build and maintain the company website, contributing across client
+development and internal tools.
+- Help develop frontend functionality for a Scala-based data platform as
+reusable Web Components (Web Awesome + DataStar), with a focus on
+maintainability and consistency.
+- Collaborate on delivery workflows through spec-driven and AI-assisted
+development, GitHub collaboration, GitHub Actions CI/CD, and Cloudflare
+Pages/Kubernetes deployments.
+- Work on observability, testing, UX, and data-quality improvements
+(Sentry, Playwright, validation, navigation, catalog flows) to improve
+reliability and everyday usability.
 
 ### Lellky Consulting AB
 **Founder / Consultant**
